@@ -17,6 +17,6 @@ Library GitHub:
 
 - https://github.com/michalsnik/aos
 
-Photo Credits:
+Image(s) Credits:
 
-- Take from Brad Traversy's codepen: https://codepen.io/bradtraversy/pen/bGbREWg
+- Brad Traversy's codepen: https://codepen.io/bradtraversy/pen/bGbREWg
